@@ -1,0 +1,28 @@
+{
+  "name": "icon-sphere",
+  "version": "1.0.0",
+  "description": "A reusable library of particle icons for React.",
+  "main": "dist/IconSphere.js",
+  "types": "dist/IconSphere.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "icons",
+    "particles"
+  ],
+  "author": "github.com/U1000000000000",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "typescript": "^5.0.0"
+  },
+  "files": [
+    "dist"
+  ]
+}
